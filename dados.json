@@ -1,0 +1,1589 @@
+[
+  {
+    "matricula": "25130313",
+    "nome": "BEATRIZ ALBUQUERQUE MARCONDES DOS SANTOS",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 95
+      }
+    ]
+  },
+  {
+    "matricula": "25129077",
+    "nome": "CLARA ANDRZEJEWSKY ANTONACCI",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 100
+      }
+    ]
+  },
+  {
+    "matricula": "25129045",
+    "nome": "ELISA MARIELLE DE OLIVEIRA CARVALHO",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 97
+      },
+      {
+        "nome": "LER",
+        "presenca": 94,
+        "media": 95
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 86
+      }
+    ]
+  },
+  {
+    "matricula": "25129967",
+    "nome": "FRANCISCO DE PAULA SOUZA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 80
+      },
+      {
+        "nome": "LER",
+        "presenca": 93,
+        "media": 95
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 100
+      }
+    ]
+  },
+  {
+    "matricula": "25129049",
+    "nome": "GABRIELA CAROLINE DA SILVA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 80
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 58
+      },
+      {
+        "nome": "LER",
+        "presenca": 88,
+        "media": 80
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 88
+      }
+    ]
+  },
+  {
+    "matricula": "25129051",
+    "nome": "GIOVANA CORRÊA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 92,
+        "media": 100
+      },
+      {
+        "nome": "LOP",
+        "presenca": 90,
+        "media": 100
+      },
+      {
+        "nome": "LER",
+        "presenca": 88,
+        "media": 95
+      },
+      {
+        "nome": "SOP",
+        "presenca": 92,
+        "media": 92
+      }
+    ]
+  },
+  {
+    "matricula": "25129087",
+    "nome": "ÍTALO MOZER DE SOUSA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 90
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 82
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 80
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 92
+      }
+    ]
+  },
+  {
+    "matricula": "25129053",
+    "nome": "JOÃO VITOR FRANCO TANDELLO",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 93
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 83
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 96
+      }
+    ]
+  },
+  {
+    "matricula": "25129055",
+    "nome": "JÚLIA GABRIELLY DA SILVA GONZAGA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 93
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 85
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 85
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 95
+      }
+    ]
+  },
+  {
+    "matricula": "25129178",
+    "nome": "JULIA NOVO DE SOUZA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 90,
+        "media": 95
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 95
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "SOP",
+        "presenca": 98,
+        "media": 85
+      }
+    ]
+  },
+  {
+    "matricula": "25129089",
+    "nome": "JULIANO RAFAEL BROLEZZI MORAES",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 85,
+        "media": 95
+      },
+      {
+        "nome": "LOP",
+        "presenca": 85,
+        "media": 100
+      },
+      {
+        "nome": "LER",
+        "presenca": 94,
+        "media": 70
+      },
+      {
+        "nome": "SOP",
+        "presenca": 95,
+        "media": 85
+      }
+    ]
+  },
+  {
+    "matricula": "25129057",
+    "nome": "KAIQUE GONÇALVES PAVAN",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 90,
+        "media": 90
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 95
+      },
+      {
+        "nome": "LER",
+        "presenca": 88,
+        "media": 90
+      },
+      {
+        "nome": "SOP",
+        "presenca": 94,
+        "media": 99
+      }
+    ]
+  },
+  {
+    "matricula": "25129091",
+    "nome": "LEANDRO SALTORATO JÚNIOR",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 98
+      },
+      {
+        "nome": "LER",
+        "presenca": 94,
+        "media": 95
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 94
+      }
+    ]
+  },
+  {
+    "matricula": "25129123",
+    "nome": "LETÍCIA CORRÊA DA SILVA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 93
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 99
+      }
+    ]
+  },
+  {
+    "matricula": "25129093",
+    "nome": "LUCAS SISMAN MAGALHÃES",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 60
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 60
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 80
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 65
+      }
+    ]
+  },
+  {
+    "matricula": "25129059",
+    "nome": "LUÍS HENRIQUE PEREIRA DA SILVA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 70
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 50
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 80
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 70
+      }
+    ]
+  },
+  {
+    "matricula": "25129061",
+    "nome": "LUÍS OTÁVIO SCORCER DA SILVA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 95,
+        "media": 90
+      },
+      {
+        "nome": "LOP",
+        "presenca": 94,
+        "media": 60
+      },
+      {
+        "nome": "LER",
+        "presenca": 92,
+        "media": 90
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 97
+      }
+    ]
+  },
+  {
+    "matricula": "25129095",
+    "nome": "LUIZA AMARAL CORAZIN",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 97
+      }
+    ]
+  },
+  {
+    "matricula": "25130299",
+    "nome": "MARIA FERNANDA MORAES DE OLIVEIRA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 80
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 84
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 90
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 90
+      }
+    ]
+  },
+  {
+    "matricula": "25129249",
+    "nome": "MARIANA COSTA DE CARVALHO",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 90,
+        "media": 80
+      },
+      {
+        "nome": "LOP",
+        "presenca": 90,
+        "media": 70
+      },
+      {
+        "nome": "LER",
+        "presenca": 81,
+        "media": 85
+      },
+      {
+        "nome": "SOP",
+        "presenca": 88,
+        "media": 90
+      }
+    ]
+  },
+  {
+    "matricula": "25129970",
+    "nome": "MARINA DEFENDI",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 94,
+        "media": 90
+      },
+      {
+        "nome": "LOP",
+        "presenca": 89,
+        "media": 50
+      },
+      {
+        "nome": "LER",
+        "presenca": 93,
+        "media": 90
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 90
+      }
+    ]
+  },
+  {
+    "matricula": "25130290",
+    "nome": "MATHEUS HENRIQUE SALLES SPINELI",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LER",
+        "presenca": 89,
+        "media": 90
+      },
+      {
+        "nome": "SOP",
+        "presenca": 94,
+        "media": 97
+      }
+    ]
+  },
+  {
+    "matricula": "25129129",
+    "nome": "MIGUEL ARAUJO GERBI",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 85
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 100
+      }
+    ]
+  },
+  {
+    "matricula": "25129237",
+    "nome": "MIRELLA SAMPAIO VICENTE",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 95,
+        "media": 80
+      },
+      {
+        "nome": "LOP",
+        "presenca": 93,
+        "media": 84
+      },
+      {
+        "nome": "LER",
+        "presenca": 94,
+        "media": 85
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 92
+      }
+    ]
+  },
+  {
+    "matricula": "25129063",
+    "nome": "MURILO JORDAN CEZAR",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 95,
+        "media": 84
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 97
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 70
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 84
+      }
+    ]
+  },
+  {
+    "matricula": "25129065",
+    "nome": "OTÁVIO MOREIRA BENEDETI",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 95,
+        "media": 90
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 91
+      },
+      {
+        "nome": "LER",
+        "presenca": 88,
+        "media": 80
+      },
+      {
+        "nome": "SOP",
+        "presenca": 92,
+        "media": 80
+      }
+    ]
+  },
+  {
+    "matricula": "25129182",
+    "nome": "PIETRA VITÓRIA FERNANDES LOPES",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LER",
+        "presenca": 94,
+        "media": 90
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 83
+      }
+    ]
+  },
+  {
+    "matricula": "25129103",
+    "nome": "SAYURY DE MORAES ARAUJO",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 90,
+        "media": 85
+      },
+      {
+        "nome": "LOP",
+        "presenca": 90,
+        "media": 93
+      },
+      {
+        "nome": "LER",
+        "presenca": 88,
+        "media": 85
+      },
+      {
+        "nome": "SOP",
+        "presenca": 92,
+        "media": 83
+      }
+    ]
+  },
+  {
+    "matricula": "25129131",
+    "nome": "TAMIRES GUARIZZO",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 95,
+        "media": 100
+      },
+      {
+        "nome": "LOP",
+        "presenca": 90,
+        "media": 91
+      },
+      {
+        "nome": "LER",
+        "presenca": 94,
+        "media": 95
+      },
+      {
+        "nome": "SOP",
+        "presenca": 92,
+        "media": 97
+      }
+    ]
+  },
+  {
+    "matricula": "25129099",
+    "nome": "VICENZO VIEIRA VARANDAS",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 90,
+        "media": 95
+      },
+      {
+        "nome": "LOP",
+        "presenca": 90,
+        "media": 85
+      },
+      {
+        "nome": "LER",
+        "presenca": 88,
+        "media": 80
+      },
+      {
+        "nome": "SOP",
+        "presenca": 92,
+        "media": 100
+      }
+    ]
+  },
+  {
+    "matricula": "25129175",
+    "nome": "ALICE RODRIGUES DA SILVA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 99
+      },
+      {
+        "nome": "LOP",
+        "presenca": 86,
+        "media": 89
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 97
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 99
+      }
+    ]
+  },
+  {
+    "matricula": "25129085",
+    "nome": "ANA LÍVIA P.A. DE ANDRADE",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 92
+      },
+      {
+        "nome": "SOP",
+        "presenca": 79,
+        "media": 91
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 95
+      }
+    ]
+  },
+  {
+    "matricula": "25129021",
+    "nome": "BRUNO ADALA VAZ DE OLIVEIRA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 79
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 86
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 78
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 79
+      }
+    ]
+  },
+  {
+    "matricula": "25129019",
+    "nome": "CARLOS HENRIQUE CAMPOS DE ALBUQUERQUE",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 93
+      },
+      {
+        "nome": "SOP",
+        "presenca": 98,
+        "media": 100
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 95
+      }
+    ]
+  },
+  {
+    "matricula": "25129023",
+    "nome": "CAROLINE VITÓRIA DE LIMA SILVA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 94
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 88
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 94
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 94
+      }
+    ]
+  },
+  {
+    "matricula": "25129105",
+    "nome": "DAVI LAZARINI MORATORIO",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 99
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 99
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 98
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 99
+      }
+    ]
+  },
+  {
+    "matricula": "25129083",
+    "nome": "EDUARDA MASSARE DOS SANTOS",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 93
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 92
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 95
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 93
+      }
+    ]
+  },
+  {
+    "matricula": "25129047",
+    "nome": "ENZO SEMENSSI TONIATO",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 86
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 92
+      },
+      {
+        "nome": "SOP",
+        "presenca": 94,
+        "media": 83
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 86
+      }
+    ]
+  },
+  {
+    "matricula": "25129101",
+    "nome": "GABRIELLY CRISTINA GOMES DE SOUZA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 93
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 90
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 88
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 93
+      }
+    ]
+  },
+  {
+    "matricula": "25129081",
+    "nome": "GABRIELLY TEIXEIRA PIFFER",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 94
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 90
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 92
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 96
+      }
+    ]
+  },
+  {
+    "matricula": "25129160",
+    "nome": "HELOÁ VITÓRIA DE OLIVEIRA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 94
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 92
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 98
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 94
+      }
+    ]
+  },
+  {
+    "matricula": "25129079",
+    "nome": "HENRIQUE ALTHMAN DOS SANTOS",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 72
+      },
+      {
+        "nome": "LOP",
+        "presenca": 86,
+        "media": 84
+      },
+      {
+        "nome": "SOP",
+        "presenca": 92,
+        "media": 88
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 72
+      }
+    ]
+  },
+  {
+    "matricula": "25129208",
+    "nome": "ISABELA BEATRIZ NUNES DO NASCIMENTO",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 94
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 93
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 92
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 94
+      }
+    ]
+  },
+  {
+    "matricula": "25129025",
+    "nome": "ISABELLE EMANUELE DE ALMEIDA BORGES",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 99
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 94
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 100
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 99
+      }
+    ]
+  },
+  {
+    "matricula": "25129121",
+    "nome": "KAUÃ LÚCIO DE SOUZA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 94
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 90
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 95
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 94
+      }
+    ]
+  },
+  {
+    "matricula": "25129073",
+    "nome": "LAÍS ROCHA SEGALLA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 63
+      },
+      {
+        "nome": "LOP",
+        "presenca": 90,
+        "media": 76
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 65
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 63
+      }
+    ]
+  },
+  {
+    "matricula": "25129125",
+    "nome": "LETÍCIA DOFF SOTTA SOUZA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 97
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 100
+      },
+      {
+        "nome": "SOP",
+        "presenca": 92,
+        "media": 95
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 97
+      }
+    ]
+  },
+  {
+    "matricula": "25129027",
+    "nome": "LÍVIA MAZZOLINI GUARIZO",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 99
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 93
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 100
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 99
+      }
+    ]
+  },
+  {
+    "matricula": "25129210",
+    "nome": "LÍVIA MORAIS PEREIRA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 80
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 93
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 86
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 80
+      }
+    ]
+  },
+  {
+    "matricula": "25129029",
+    "nome": "MARIA EDUARDA OLIVEIRA URBANO",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 98
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 95
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 100
+      }
+    ]
+  },
+  {
+    "matricula": "25129127",
+    "nome": "MATHEUS GUILHERME TEIXEIRA SILVA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 88
+      },
+      {
+        "nome": "LOP",
+        "presenca": 90,
+        "media": 89
+      },
+      {
+        "nome": "SOP",
+        "presenca": 79,
+        "media": 76
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 88
+      }
+    ]
+  },
+  {
+    "matricula": "25129235",
+    "nome": "MATHIAS DOMINGOS PEREIRA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 63
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 90
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 76
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 63
+      }
+    ]
+  },
+  {
+    "matricula": "25129031",
+    "nome": "MIRELLA BROLEZI DE OLIVEIRA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 91
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 90
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 100
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 91
+      }
+    ]
+  },
+  {
+    "matricula": "25129033",
+    "nome": "MONIQUE STEFANY BABLER",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LOP",
+        "presenca": 90,
+        "media": 94
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 99
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 100
+      }
+    ]
+  },
+  {
+    "matricula": "25129162",
+    "nome": "MURILO LAZARINI CHIARELLO",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 99
+      },
+      {
+        "nome": "LOP",
+        "presenca": 95,
+        "media": 96
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 97
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 99
+      }
+    ]
+  },
+  {
+    "matricula": "25129035",
+    "nome": "NATALIA MARANGONI",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 100
+      },
+      {
+        "nome": "LOP",
+        "presenca": 90,
+        "media": 100
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 92
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 100
+      }
+    ]
+  },
+  {
+    "matricula": "25129039",
+    "nome": "NICOLLAS FELISBELO DA SILVA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 90
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 98
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 85
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 90
+      }
+    ]
+  },
+  {
+    "matricula": "25129041",
+    "nome": "PIETRA MOROLEZI DE OLIVEIRA",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 96
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 99
+      },
+      {
+        "nome": "SOP",
+        "presenca": 96,
+        "media": 92
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 96
+      }
+    ]
+  },
+  {
+    "matricula": "25129043",
+    "nome": "STEFANI CAROLINE CARDOSO",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 77
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 76
+      },
+      {
+        "nome": "SOP",
+        "presenca": 83,
+        "media": 79
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 77
+      }
+    ]
+  },
+  {
+    "matricula": "25129189",
+    "nome": "THOMAS FANTINI BATONI",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 96
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 94
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 96
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 96
+      }
+    ]
+  },
+  {
+    "matricula": "25129069",
+    "nome": "VINICIUS GUILHERME NETTO DE GODOI",
+    "componentes": [
+      {
+        "nome": "IOT",
+        "presenca": 100,
+        "media": 96
+      },
+      {
+        "nome": "LOP",
+        "presenca": 100,
+        "media": 93
+      },
+      {
+        "nome": "SOP",
+        "presenca": 100,
+        "media": 98
+      },
+      {
+        "nome": "LER",
+        "presenca": 100,
+        "media": 96
+      }
+    ]
+  }
+
+]
