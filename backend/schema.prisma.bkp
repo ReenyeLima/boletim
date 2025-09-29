@@ -1,0 +1,101 @@
+model Usuarios {
+    id Int @id @default(autoincrement())
+    nome String 
+    email String
+    senha String
+    tipo Role
+}
+
+enum Role {
+    PROF
+    CORD
+}
+
+model Turmas {
+    id Int @id @default(autoincrement())
+    nome String
+    Alunos Alunos[]
+    ComponentesTurmas ComponentesTurmas[]
+}
+
+model Alunos {
+    id Int @id @default(autoincrement())
+    nome String 
+    email String
+    senha String
+    matricula String
+    turmaId Int
+    turma Turmas @relation(fields: [turmaId], references: [id])
+
+    Entregas Entregas[]
+    Faltas Faltas[]
+}
+
+model Componentes {
+    id Int @id @default(autoincrement())
+    nome String
+    carga Int
+    ComponentesTurmas ComponentesTurmas[]
+}
+
+model ComponentesTurmas {
+    id Int @id @default(autoincrement())
+    turmaId Int
+    componenteId Int
+    turma Turmas @relation(fields: [turmaId], references: [id])
+    componente Componentes @relation(fields: [componenteId], references: [id])
+
+    Atividades Atividades[]
+
+    Aulas Aulas[]
+}
+
+model Atividades {
+    id Int @id @default(autoincrement())
+    ComponenteTurmaId Int
+    peso Float
+    dataLimite DateTime
+    tipo TipoAtividade
+    ComponentesTurmas ComponentesTurmas @relation(fields: [ComponenteTurmaId], references: [id])
+
+    Entregas Entregas[]
+}
+
+enum TipoAtividade {
+    SOM
+    FOR
+    DIAG
+} 
+
+model Entregas {
+    id Int @id  @default(autoincrement())
+    atividadeId Int
+    alunoId Int
+    dataEntrega DateTime
+    nota Float
+
+    Atividades Atividades @relation(fields: [atividadeId], references: [id])
+    Alunos Alunos @relation(fields: [alunoId], references: [id])
+}
+
+model Aulas {
+    id Int @id  @default(autoincrement())
+    data DateTime
+    ComponenteTurmaId Int
+    cargahoraria Int
+    descricao String
+
+    ComponentesTurmas ComponentesTurmas @relation(fields: [ComponenteTurmaId], references: [id])
+
+    Faltas Faltas[]
+}
+
+model Faltas {
+    id Int @id  @default(autoincrement())
+    aulaId Int
+    alunoId Int
+    faltas Int
+
+    Alunos Alunos @relation(fields: [alunoId], references: [id])
+    Aulas Aulas @relation(fields: [aulaId], references: [id])
+}

@@ -1,0 +1,133 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Usuarios {
+  id    Int    @id @default(autoincrement())
+  nome  String
+  email String @unique
+  senha String
+  tipo  Role
+
+  UsuariosPorTurma UsuariosPorTurma[]
+}
+
+enum Role {
+  PROF
+  CORD
+}
+
+model Turmas {
+  id                Int                 @id @default(autoincrement())
+  nome              String
+  periodo           String
+  sigla             String
+  Alunos            Alunos[]
+  ComponentesTurmas ComponentesTurmas[]
+  UsuariosPorTurma  UsuariosPorTurma[]
+}
+
+model Alunos {
+  id        Int    @id @default(autoincrement())
+  nome      String
+  email     String @unique
+  senha     String
+  matricula String @unique
+  turmaId   Int
+  turma     Turmas @relation(fields: [turmaId], references: [id])
+
+  Entregas Entregas[]
+  Faltas   Faltas[]
+}
+
+model Componentes {
+  id                Int                 @id @default(autoincrement())
+  nome              String
+  carga             Int
+  sigla             String
+  ComponentesTurmas ComponentesTurmas[]
+}
+
+model ComponentesTurmas {
+  id           Int         @id @default(autoincrement())
+  turmaId      Int
+  componenteId Int
+  turma        Turmas      @relation(fields: [turmaId], references: [id])
+  componente   Componentes @relation(fields: [componenteId], references: [id])
+
+  Atividades Atividades[]
+
+  Aulas Aulas[]
+}
+
+model Atividades {
+  id                Int               @id @default(autoincrement())
+  titulo            String
+  ComponenteTurmaId Int
+  peso              Float
+  dataLimite        DateTime
+  tipo              TipoAtividade
+  ComponentesTurmas ComponentesTurmas @relation(fields: [ComponenteTurmaId], references: [id])
+
+  Entregas Entregas[]
+}
+
+enum TipoAtividade {
+  SOM
+  FOR
+  DIAG
+}
+
+model Entregas {
+  atividadeId Int
+  alunoId     Int
+  dataEntrega DateTime @default(now())
+  nota        Float
+
+  Atividades Atividades @relation(fields: [atividadeId], references: [id])
+  Alunos     Alunos     @relation(fields: [alunoId], references: [id])
+
+  @@id([atividadeId, alunoId])
+}
+
+model Aulas {
+  id                Int      @id @default(autoincrement())
+  data              DateTime
+  ComponenteTurmaId Int
+  cargahoraria      Int
+  descricao         String
+
+  ComponentesTurmas ComponentesTurmas @relation(fields: [ComponenteTurmaId], references: [id])
+
+  Faltas Faltas[]
+}
+
+model Faltas {
+  id      Int @id @default(autoincrement())
+  aulaId  Int
+  alunoId Int
+  faltas  Int
+
+  Alunos Alunos @relation(fields: [alunoId], references: [id])
+  Aulas  Aulas  @relation(fields: [aulaId], references: [id])
+}
+
+model UsuariosPorTurma {
+  id        Int @id @default(autoincrement())
+  usuarioId Int
+  turmaId   Int
+
+  Usuarios Usuarios @relation(fields: [usuarioId], references: [id])
+  Turmas   Turmas   @relation(fields: [turmaId], references: [id])
+}
